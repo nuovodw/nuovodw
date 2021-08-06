@@ -4,9 +4,9 @@ I'm a Chicago-based Front End Developer with a background in classical music.
 - 🔭 I’m currently working on a new band website.
 - 🌱 I’m currently learning React! 
 - ⚡ Fun fact: I've played on almost all of the [Final Fantasy Concerts](https://ffdistantworlds.com/concert/ffvii-chicago/) ('Distant Worlds' & 'A New World') in Chicago since 2015 🎵
-- 📫 How to reach me: https://www.danielwon.dev
+- 📫 How to reach me: <a href="https://danielwon.dev/" target="_blank">Click here.</a>
 
-Thanks for stopping by, and [please say hello](https://twitter.com/nuovodw)!
+Thanks for stopping by, and <a href="https://twitter.com/nuovodw/" target="_blank">please say hello</a>!
 
 <!--
 **nuovodw/nuovodw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
