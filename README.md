@@ -3,7 +3,7 @@ Thanks for visiting my GitHub page! I’m a **Frontend Developer** based in Chic
 
 A few things about me:
 
- - 🔎 I'm open to **new opportunities!** Let's <a href="https://danielwon.dev/">chat</a>, if you are interested in working together. 
+ - 🔎 I'm open to **new opportunities!** Let's <a href="https://danielwon.dev/#contact">chat</a>, if you are interested in working together. 
     - **Portfolio** ➡ <a href="https://danielwon.dev/">DanielWon.dev</a>
  - 🌱 I’m currently learning **React**! 
  - ⌨ I'm also continuing to hone my **vanilla Javascript skills** 👊
