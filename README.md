@@ -1,5 +1,5 @@
 # Hi there, I'm Dan.👋
-Thanks for visiting my GitHub page! I’m a **Frontend Developer** based in Chicago, and I absolute love what I do.💻💙
+Thanks for visiting my GitHub page! I’m a **Frontend Developer** based in Chicago, and I absolutely love what I do.💻💙
 
 A few things about me:
 
