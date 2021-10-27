@@ -7,7 +7,7 @@
     - **Portfolio**: <a href="https://danielwon.dev/">DanielWon.dev</a>
     - **LinkedIn**: <a href="https://www.linkedin.com/in/danjwon/"/>linkedin.com/in/danjwon</a>
  
- - 💻 Current Tech Stack: `React` `vanilla JavaScript` `HTML5` `CSS3` `Sass` `Bootstrap5` `Git` `Photoshop`
+ - 💻 Current Tech Stack: `React` `JavaScript` `HTML5` `CSS3` `Sass` `Bootstrap5` `Git` `Photoshop`
     - I always welcome the opportunity to try and learn **new technologies**! 
  
   - 🎵  When I'm not coding, I freelance as a clarinetist with several orchestras in Chicago, such as the Chicago Symphony Orchestra, Joffrey Ballet, and Chicago Opera Theater.
